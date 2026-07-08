@@ -30,7 +30,7 @@ spotify-analysis/
 - **High energy + high danceability tracks are 13% more popular on average**
 - **Nearly 19,000 tracks (17% of the dataset) have a popularity score of 0, suggesting a large portion of Spotify's catalog consists of obscure or unlisted tracks with little to no streaming activity**
 ## Dashboard
-[View Interactive Tableau Dashboard](https://public.tableau.com/authoring/SpotifyDataAnalysis_17834831336470/SpotifyListeningTrends#1)
+[View Interactive Tableau Dashboard](https://public.tableau.com/views/SpotifyDataAnalysis_17834831336470/SpotifyListeningTrends)
 
 ## Charts
 ![Top Genres](output/charts/top_genres.png)
