@@ -34,5 +34,5 @@ spotify-analysis/
 
 ## Charts
 ![Top Genres](output/charts/top_genres.png)
-![Energy vs Danceability](output/charts/energy_vs_dance.png)
+![Energy vs Danceability](output/charts/energy_dance.png)
 ![Popularity_Distribution](output/charts/popularity_dist.png)
